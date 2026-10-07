@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints & cache
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large files & local model checkpoints (if saved locally)
+*.pkl
+*.h5
+*.pt
+*.pth
+checkpoints/
+
+# OS and IDE caches
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
